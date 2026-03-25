@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+storeflow:
+  srv:
+    url: http://localhost:8081
