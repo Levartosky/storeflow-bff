@@ -15,6 +15,7 @@ BFF (Spring Boot)
 SRV (Spring Boot)
         ↓
 PostgreSQL
+
 🎯 OBJETIVO DO BFF
 
 O storeflow-bff tem como responsabilidades:
@@ -24,6 +25,7 @@ adaptar dados para o frontend
 centralizar regras de integração
 preparar o sistema para autenticação futura (JWT)
 desacoplar o frontend do backend principal
+
 ⚙️ TECNOLOGIAS UTILIZADAS
 Java 21
 Spring Boot
@@ -32,6 +34,7 @@ Spring Security (configuração básica)
 Spring Cloud OpenFeign
 Lombok
 Maven
+
 🧱 ARQUITETURA INTERNA
 
 Estrutura atual:
